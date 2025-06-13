@@ -2,7 +2,7 @@
     "CurrentJob": "Current job",
     "NoJob": "Currently you have no delivery job.",
     "CargoName": "Cargo name",
-	"CargoWeight": "Cargo weight"
+	"CargoWeight": "Cargo weight",
 	"CargoDamage": "Cargo Damage",
 	"Source": "Source",
     "Destination": "Destination",
